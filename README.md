@@ -19,4 +19,9 @@ This project built an interactive dashboard to explore the [Belly Button Biodive
 * import pandas as pd
 * import os
 
+###  Heroku Link
+https://lgbiodiv.herokuapp.com/
+
+(NOTE:   page loads, but database table cannot be found.   See .pdf for more information.)
+
 
