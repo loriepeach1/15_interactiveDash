@@ -31,9 +31,4 @@ This project built an interactive dashboard to explore the [Belly Button Biodive
 
  
 
-###  Heroku Link
-https://lgbiodiv.herokuapp.com/
-
-(NOTE:   page loads, but database table cannot be found.   See .pdf for more information.   Worked with TAs and instructors and we are not sure why it works locally, but not when deployed to Heroku.   Lack of heroku SME within the group.   Needs further investigation.)
-
 
